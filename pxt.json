@@ -1,5 +1,6 @@
 {
     "name": "Light Level Meter",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
